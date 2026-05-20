@@ -1,22 +1,27 @@
-# Hi there, I'm Sonu! 👋
+# Hi, I'm Amlan 👋
 
-Welcome to my corner of GitHub. I am a 19-year-old developer and student based in West Bengal, India. Currently, I am balancing an intense academic drop year preparing for engineering entrance exams while sharping my coding skills late into the night. 
+🎓 Engineering Aspirant from West Bengal  
+💻 Learning Python, Git, and Software Development  
+⚡ Interested in automation, productivity tools, and AI
 
-### 🚀 What I'm Up To
-- 📚 **Main Focus:** Cracking competitive exams (Physics, Chemistry, and Mathematics).
-- 💻 **Coding:** Building logic, automating daily tasks, and exploring basic AI applications using **Python**.
-- 🛠️ **Latest Project:** [JEE-LECTURE-RANDOMIZER](https://github.com/amlan-sinha07/JEE-LECTURE-RANDOMIZER) — A Python tool using weighted randomness to optimize study prioritization.
+## Current Skills
+- Python
+- Git & GitHub
+- JSON
+- Basic CLI tools
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python
-- **Libraries/Frameworks:** PyTorch (Exploring)
-- **Environment:** VS Code, Git/GitHub
+## Featured Projects
+- JEE Lecture Randomizer
+- Future WBJEE/JEE utilities
+- Python automation projects
 
-### 🎯 Interests Beyond Coding
-- 🥊 Combat sports (Boxing, MMA, and grappling analysis)
-- ⚽ Football (Tactical analysis, passionate about Real Madrid and European football)
-- 🎮 Sandbox & competitive gaming (Minecraft, strategy games)
+## Currently Learning
+- OOP in Python
+- Advanced Python
+- DSA
+- APIs
 
----
-
-*"Consistency beats talent when talent doesn't work hard."*
+## Goals for 2026
+- Build 5 strong projects
+- Learn full development workflow
+- Contribute to open source
